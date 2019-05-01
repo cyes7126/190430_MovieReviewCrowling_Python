@@ -8,4 +8,4 @@ https://movie.naver.com/movie/point/af/list.nhn?&page=1<br>
 네이버 영화 평점,리뷰 페이지에서 평점, 영화제목, 140자평을 받아 csv파일로 저장합니다.(makeCSV.py => movieTest.csv)
 이후 readCSV.py에서 해당 csv를 읽어오는 코드를 만들었습니다.
 
-<a href="https://blog.naver.com/cyes7126/221527215655">자세한 사항은 저의 블로그에 포스팅하였습니다.</a>
+<p>자세한 사항은 저의 블로그에 포스팅하였습니다.<a href="https://blog.naver.com/cyes7126/221527215655">클릭</a></
